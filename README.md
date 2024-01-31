@@ -1,6 +1,5 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello!%20%20Yuna%20GitHub!&textBg=false&fontAlign=50&descAlign=60'/>
 
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
