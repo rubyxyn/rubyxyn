@@ -14,7 +14,7 @@
  	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />	
 	<br>
 	<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" />
-	<img src="https://img.shields.io/badge/amazonaws-232F3E-E97627?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 </div>
 
 
